@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-13T15:26:39 IST" name="Suite" finished-at="2023-09-13T15:26:52 IST" duration-ms="12988">
+    <groups>
+    </groups>
+    <test started-at="2023-09-13T15:26:39 IST" name="Test" finished-at="2023-09-13T15:26:52 IST" duration-ms="12988">
+      <class name="com.SwagLab.TestCases.OverViewPageTestCase">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.SwagLab.TestCases.OverViewPageTestCase@26d9b808]" started-at="2023-09-13T15:26:39 IST" name="SetUp" finished-at="2023-09-13T15:26:42 IST" duration-ms="2539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="PageSetUp()[pri:0, instance:com.SwagLab.TestCases.OverViewPageTestCase@26d9b808]" started-at="2023-09-13T15:26:42 IST" name="PageSetUp" finished-at="2023-09-13T15:26:52 IST" duration-ms="10280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageSetUp -->
+        <test-method signature="verifydetails()[pri:1, instance:com.SwagLab.TestCases.OverViewPageTestCase@26d9b808]" started-at="2023-09-13T15:26:52 IST" name="verifydetails" finished-at="2023-09-13T15:26:52 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydetails -->
+        <test-method signature="verifyfinish()[pri:2, instance:com.SwagLab.TestCases.OverViewPageTestCase@26d9b808]" started-at="2023-09-13T15:26:52 IST" name="verifyfinish" finished-at="2023-09-13T15:26:52 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfinish -->
+      </class> <!-- com.SwagLab.TestCases.OverViewPageTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
